@@ -1,3 +1,5 @@
+@ideserve problem no.6
+
 package bucky;
 import java.util.*;
 public class DP {
